@@ -1,4 +1,4 @@
-# laughing-potato also known as, Aaronea Wiggins
+# laughing-potato also known as, AW
 CTEC 298 Information
 
 This repository will display the following assignments;
